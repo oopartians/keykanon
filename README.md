@@ -25,7 +25,14 @@ keykanon의 설정을 변경하려면 keykanon.exe를 사용하면 됩니다. keykanon.exe는 keyk
 
 - - -
 
-##4. 편집
+##4. 빌드 방법
+현재 keykanon 프로젝트에는 Winamp 플러그인을 위한 SDK가 빠져 있습니다. 소스를 빌드하기 위해서는 Winamp SDK를 받아서 헤더를 추가해야 합니다. 다음 링크에서 Winamp SDK를 받을 수 있습니다.
+
+[Winamp Developer Wiki](http://wiki.winamp.com/wiki/Main_Page)
+
+- - -
+
+##5. 편집
 keykanon에서 편집 가능한 변수는 다음 7가지가 있습니다.
 
     사용(Usage) : SSTP를 사용할 것인지 정합니다. 기본 TRUE입니다.
@@ -38,6 +45,6 @@ keykanon에서 편집 가능한 변수는 다음 7가지가 있습니다.
 
 - - -
 
-##5. Release Note
+##6. Release Note
 Feb. 02 2017
 >First Release

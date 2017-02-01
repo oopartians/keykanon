@@ -3,7 +3,7 @@
 #ifndef __pluginname
 #define __pluginname
 
-#define PROGRAM_NAME "testing..."
+#define PROGRAM_NAME "keykanon"
 
 extern bool defaultusage;
 extern char defaultip[32];
